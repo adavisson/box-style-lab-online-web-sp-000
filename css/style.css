@@ -22,15 +22,12 @@ body {
   margin: 10px auto;
 }
 
-h1 {
-  background: linear-gradient(to right, #FFF, #000)
-}
-
 h4 {
   width: fit-content;
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
+  background: linear-gradient(to right, #FFF, #000)
 }
 
 .amiable {
