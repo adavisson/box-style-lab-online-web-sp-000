@@ -22,6 +22,10 @@ body {
   margin: 10px auto;
 }
 
+h1 {
+  background: linear-gradient(to right, #FFF, #000)
+}
+
 h4 {
   width: fit-content;
   display: inline-block;
